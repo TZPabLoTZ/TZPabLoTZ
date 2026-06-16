@@ -65,11 +65,11 @@ class PablinDev extends FlutterDeveloper {
 
 ---
 
-### 🏆 Troféus
+### 📈 Atividade
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TZPabLoTZ&theme=tokyonight&no-frame=true&no-bg=true&margin_w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=TZPabLoTZ&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
