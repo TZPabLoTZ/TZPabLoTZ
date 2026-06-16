@@ -29,8 +29,7 @@ class PablinDev extends FlutterDeveloper {
 - 🏙️ Construindo o **Município Na Mão** — civic-tech para gestão pública local
 - 🚀 Já trabalhei em apps de mobilidade, delivery, CRM, eventos, fitness e edtech
 - 🌱 Sempre testando padrões mais limpos para arquitetura Flutter
-- ⚔️ Jogador de Dota 2 nas horas vagas — mid ou feed, sem meio-termo
-- 🇧🇷 Baseado no Brasil
+- ⚔️ Jogador de Dota 2 nas horas vagas — offlaner nato, aguentando pressão desde o nível 1
 
 ---
 
