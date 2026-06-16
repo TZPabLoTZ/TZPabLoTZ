@@ -69,7 +69,7 @@ class PablinDev extends FlutterDeveloper {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TZPabLoTZ&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TZPabLoTZ&theme=tokyonight&no-frame=true&no-bg=true&margin_w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
