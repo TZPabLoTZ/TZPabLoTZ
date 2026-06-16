@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Pablo+%F0%9F%91%8B;Flutter+%26+Mobile+Developer;Building+apps+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Oi%2C+sou+o+Pablo+%F0%9F%91%8B;Flutter+%26+Desenvolvedor+Mobile;Criando+apps+que+fazem+sentido" alt="Typing SVG" />
 
 <br/>
 
@@ -11,27 +11,27 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mim
 
 ```dart
 class PablinDev extends FlutterDeveloper {
-  final String name        = "Pablo";
-  final String focus       = "Mobile & Cross-platform Apps";
+  final String nome        = "Pablo";
+  final String foco        = "Apps Mobile & Multiplataforma";
   final List<String> stack = ["Flutter", "Dart", "Supabase", "Firebase"];
-  final String status      = "Building civic-tech solutions 🏙️";
+  final String status      = "Construindo soluções de civic-tech 🏙️";
 
-  String get motto => "Dev Flutter<S2>() { return PablinDev }";
+  String get lema => "Dev Flutter<S2>() { return PablinDev }";
 }
 ```
 
-- 📱 **Flutter Developer** focused on mobile-first experiences
-- 🏙️ Currently building **Município Na Mão** — a civic-tech platform for local government
-- 🌱 Always exploring better patterns for clean, scalable Flutter apps
-- 🇧🇷 Based in Brazil
+- 📱 **Desenvolvedor Flutter** com foco em experiências mobile-first
+- 🏙️ Atualmente construindo o **Município Na Mão** — plataforma civic-tech para gestão pública local
+- 🌱 Sempre explorando padrões mais limpos e escaláveis para apps Flutter
+- 🇧🇷 Baseado no Brasil
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
 
 <div align="center">
 
@@ -48,24 +48,24 @@ class PablinDev extends FlutterDeveloper {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TZPabLoTZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZPabLoTZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TZPabLoTZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZPabLoTZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TZPabLoTZ&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TZPabLoTZ&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🏆 Trophies
+### 🏆 Troféus
 
 <div align="center">
 
@@ -75,16 +75,16 @@ class PablinDev extends FlutterDeveloper {
 
 ---
 
-### 📌 Featured Project
+### 📌 Projeto em Destaque
 
-> **[Município Na Mão](https://github.com/TZPabLoTZ)** — Civic-tech platform connecting citizens to local government services. Built with Flutter (mobile) + React (web admin panel) + Supabase.
+> **[Município Na Mão](https://github.com/TZPabLoTZ)** — Plataforma civic-tech que conecta cidadãos aos serviços da gestão municipal. Desenvolvida com Flutter (mobile) + React (painel web) + Supabase.
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TZPabLoTZ&color=7C3AED&style=flat-square&label=Profile+Views)
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=TZPabLoTZ&color=7C3AED&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil)
 
-*"Code with purpose. Ship with care."*
+*"Código com propósito. Entrega com cuidado."*
 
 </div>
