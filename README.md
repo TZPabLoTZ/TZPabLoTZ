@@ -18,15 +18,18 @@ class PablinDev extends FlutterDeveloper {
   final String nome        = "Pablo";
   final String foco        = "Apps Mobile & Multiplataforma";
   final List<String> stack = ["Flutter", "Dart", "Supabase", "Firebase"];
-  final String status      = "Construindo soluções de civic-tech 🏙️";
+  final String status      = "Buildando produtos reais — do MVP ao deploy 🚀";
+  final String hobby       = "Dota 2 — farm de ouro e de código ⚔️";
 
-  String get lema => "Dev Flutter<S2>() { return PablinDev }";
+  String get lema => "Farm de código. Carry de produto.";
 }
 ```
 
-- 📱 **Desenvolvedor Flutter** com foco em experiências mobile-first
-- 🏙️ Atualmente construindo o **Município Na Mão** — plataforma civic-tech para gestão pública local
-- 🌱 Sempre explorando padrões mais limpos e escaláveis para apps Flutter
+- 📱 **Desenvolvedor Flutter** com foco em produtos mobile reais e escaláveis
+- 🏙️ Construindo o **Município Na Mão** — civic-tech para gestão pública local
+- 🚀 Já trabalhei em apps de mobilidade, delivery, CRM, eventos, fitness e edtech
+- 🌱 Sempre testando padrões mais limpos para arquitetura Flutter
+- ⚔️ Jogador de Dota 2 nas horas vagas — mid ou feed, sem meio-termo
 - 🇧🇷 Baseado no Brasil
 
 ---
@@ -85,6 +88,6 @@ class PablinDev extends FlutterDeveloper {
 
 ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=TZPabLoTZ&color=7C3AED&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil)
 
-*"Código com propósito. Entrega com cuidado."*
+*"Farm de código. Carry de produto."*
 
 </div>
