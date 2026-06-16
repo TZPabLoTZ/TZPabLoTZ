@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Oi%2C+sou+o+Pablo+%F0%9F%91%8B;Flutter+%26+Desenvolvedor+Mobile;Criando+apps+que+fazem+sentido" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Oi%2C+sou+o+Pablo;Flutter+%26+Desenvolvedor+Mobile;Criando+apps+que+fazem+sentido" alt="Typing SVG" />
 
 <br/>
 
